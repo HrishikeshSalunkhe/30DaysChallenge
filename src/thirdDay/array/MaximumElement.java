@@ -1,4 +1,4 @@
-package thidDay.array;
+package thirdDay.array;
 
 /**
  * @author  Hrishikesh Salunkhe
