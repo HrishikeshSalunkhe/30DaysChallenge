@@ -1,4 +1,4 @@
-package secondDay.functions;
+package firstDay.functions;
 /**
  * @author Hrishikesh Salunkhe
  * Check if given numbers are pythagoras triplets or, not?

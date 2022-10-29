@@ -1,4 +1,4 @@
-package secondDay.functions;
+package firstDay.functions;
 
 public class DecimalToOctal {
     public static void main(String[] args) {

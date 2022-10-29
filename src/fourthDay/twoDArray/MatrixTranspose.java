@@ -13,8 +13,10 @@ public class MatrixTranspose {
         }
 
         System.out.println("<--------->");
+        // Outer Loop
         for (int i = 0; i < array.length ; i++) {
             // For upper half
+            // Inner Loop
             for (int j = i; j < array[i].length ; j++) {
                 int temp = array[i][j];
                 array[i][j] = array [j][i];

@@ -1,11 +1,11 @@
-package secondDay.functions;
+package firstDay.functions;
 /**
  * @author Hrishikesh Salunkhe
  * Print the Pascal Triangle Pattern
  *  What is Pascal Triangle:    https://en.wikipedia.org/wiki/Pascal%27s_triangle              *
  */
 
-public class PascalTrianglePattern {
+public class  PascalTrianglePattern {
     private static int factorial(int n) {
         int sum =1;
         for (int i = n; i >=1 ; i--) {

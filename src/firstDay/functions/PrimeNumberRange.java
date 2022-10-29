@@ -6,7 +6,6 @@ package secondDay.functions;
  */
 public class PrimeNumberRange {
     public static boolean isPrime(int number){
-
         for (int i = 2; i <=Math.sqrt(number) ; i++) {
                 if(number%i==0)
                     return false;
@@ -16,6 +15,7 @@ public class PrimeNumberRange {
     public static void main(String[] args) {
         int  start = 10;
         int end = 30;
+        //System.out.println(Math.sqrt(30));
         System.out.println("<----------------------->");
         for (int i = start; i <= end ; i++) {
                 if(isPrime(i)){

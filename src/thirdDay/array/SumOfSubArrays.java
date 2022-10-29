@@ -14,11 +14,10 @@ public class SumOfSubArrays {
         for (int i = 0; i < array.length; i++) {
             sum=0;
             for (int j = i; j < array.length; j++) {
-                sum +=array[i];
+                sum +=array[j];
                 System.out.print(sum + " ");
             }
             System.out.println();
-
         }
     }
 }

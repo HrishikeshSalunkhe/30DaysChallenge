@@ -1,4 +1,4 @@
-package secondDay.functions;
+package firstDay.functions;
 
 public class HaxadecimalToDecimal {
     public static void main(String[] args) {

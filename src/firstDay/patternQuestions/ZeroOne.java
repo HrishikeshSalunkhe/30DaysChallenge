@@ -1,7 +1,7 @@
-package secondDay.patternQuestions;
+package firstDay.patternQuestions;
 /**
  * @author Hrishikesh Salunkhe
- * Print the Zero-One Pattern
+ * Print the Zero-One Pattern using Loops
  *  e.g.  1
  *        0 1
  *        1 0 1

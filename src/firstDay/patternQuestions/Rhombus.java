@@ -1,4 +1,4 @@
-package secondDay.patternQuestions;
+package firstDay.patternQuestions;
 /**
  * @author Hrishikesh Salunkhe
  * Print the Rhombus Pattern

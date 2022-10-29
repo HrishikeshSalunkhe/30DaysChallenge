@@ -1,4 +1,4 @@
-package secondDay.functions;
+package firstDay.functions;
 /**
  * @author Hrishikesh Salunkhe
  *  Print the Factorial of n
